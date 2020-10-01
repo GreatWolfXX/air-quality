@@ -1,0 +1,48 @@
+.air-q {
+  padding: 50px 0;
+
+  &-title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #FFFFFF;
+    margin-top: 70px;
+  }
+
+  &-map {
+    height: 560px;
+    margin: 42px 0;
+  }
+
+  &-text {
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    color: #FFFFFF;
+  }
+  @media only screen and (max-width: 480px) {
+    padding: 8px 0 0;
+    height: 100vh;
+    margin: auto;
+
+    &-title {
+      font-size: 27px;
+      line-height: 32px;
+      text-align: center;
+    }
+
+    &-text {
+      font-size: 17px;
+      line-height: 20px;
+      width: 340px;
+      margin: 0 auto;
+    }
+
+    &-map {
+      height: 70vh;
+      width: calc(100vw - 20px);
+      margin: 22px auto 20px;
+    }
+  }
+}
