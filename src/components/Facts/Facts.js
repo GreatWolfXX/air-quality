@@ -18,8 +18,8 @@ const Facts = ({title, slides}) => {
   const winSize = useScreenSize();
 
   return (
-    <section className="facts container">
-      <h2 className="facts-title" id="facts">{title}</h2>
+    <section className="facts container" id="facts">
+      <h2 className="facts-title" >{title}</h2>
       <div className="swiper-button-prev"/>
       <Swiper navigation={{
                 nextEl: '.swiper-button-next',

@@ -18,7 +18,7 @@ const HeroBlock = ({title, links, logos, imgArrow}) => {
             </nav>
             <h1 className="hero-title">{title}</h1>
             <a href="#" className="hero-link">Отследить</a>
-            <a href="#"><img src={imgArrow} alt="hero-item" className="hero-arrow"/></a>
+            <a href="#facts"><img src={imgArrow} alt="hero-item" className="hero-arrow"/></a>
         </div>
       </section>
     );
