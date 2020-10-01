@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9d553d5-b40f-4c7d-88bd-10372dc57ec6" name="Default Changelist" comment="&#10;delete .idea">
+      <change beforePath="$PROJECT_DIR$/src/components/SectorsList/SectorsList.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SectorsList/SectorsList.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hxt641WWqdvAhzMbm3i3NdwHIc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/facts-slider" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/assets/facts-slider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artem\Desktop\Air Project\air-quality\src\assets\facts-slider" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9d553d5-b40f-4c7d-88bd-10372dc57ec6" name="Default Changelist" comment="" />
+      <created>1600964396236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600964396236</updated>
+      <workItem from="1600964682812" duration="45983000" />
+      <workItem from="1601132467305" duration="11269000" />
+      <workItem from="1601218889042" duration="13662000" />
+      <workItem from="1601293839199" duration="84000" />
+      <workItem from="1601293953046" duration="38128000" />
+      <workItem from="1601480142170" duration="7660000" />
+      <workItem from="1601558089378" duration="11017000" />
+      <workItem from="1601569214388" duration="563000" />
+      <workItem from="1601569896899" duration="4744000" />
+    </task>
+    <task id="LOCAL-00001" summary="delete idea folder">
+      <created>1601567231332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601567231332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;delete .idea">
+      <created>1601567566349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601567566349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;delete .idea">
+      <created>1601579648550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601579648550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete idea folder" />
+    <MESSAGE value="&#10;delete .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;delete .idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601386674049">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601386674049" />
+    <state x="1772" y="92" width="1096" height="800" key="DiffContextDialog" timestamp="1601052661697">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="1772" y="92" width="1096" height="800" key="DiffContextDialog/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1601052661696" />
+    <state x="2152" y="253" key="FileChooserDialogImpl" timestamp="1601052635205">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1600973452396" />
+    <state x="2152" y="253" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1601052635205" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1601294257352">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601294257352" />
+    <state x="432" y="219" key="Vcs.Push.Dialog.v2" timestamp="1601579698712">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="219" key="Vcs.Push.Dialog.v2/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601579698712" />
+    <state x="647" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601568901421">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="647" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601568901421" />
+    <state x="2027" y="48" width="585" height="888" key="find.popup" timestamp="1601052653464">
+      <screen x="1680" y="0" width="1280" height="984" />
+    </state>
+    <state x="2027" y="48" width="585" height="888" key="find.popup/0.0.1680.1010/1680.0.1280.984@1680.0.1280.984" timestamp="1601052653464" />
+    <state x="642" y="347" key="git4idea.rebase.GitRebaseDialog" timestamp="1601567872706">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="642" y="347" key="git4idea.rebase.GitRebaseDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601567872706" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1601565089549">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601565089549" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1601412100232">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1601412100232" />
+  </component>
+</project>
