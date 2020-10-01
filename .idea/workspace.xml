@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d553d5-b40f-4c7d-88bd-10372dc57ec6" name="Default Changelist" comment="&#10;delete .idea">
-      <change beforePath="$PROJECT_DIR$/src/components/SectorsList/SectorsList.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SectorsList/SectorsList.scss" afterDir="false" />
-    </list>
+    <list default="true" id="f9d553d5-b40f-4c7d-88bd-10372dc57ec6" name="Default Changelist" comment="&#10;delete .idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
